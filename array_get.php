@@ -1,3 +1,4 @@
+<?php
 function array_get(array $array, string $key)
 {
     if ($key === '') {
